@@ -1,7 +1,7 @@
 <h1 align="center">Heyyyyyyy 👋,It's me Yuvraj</h1>
 <h3 align="center">"Bringing logic and creativity to the forefront of innovation."</h3>
 
-- 🔭 I’m currently working on **an e-commerce app for a grocery shop**
+- 🔭 I’m currently working on a ** travel-dating social media website **
 
 - 🌱 I’m currently learning **Next.js**
 
